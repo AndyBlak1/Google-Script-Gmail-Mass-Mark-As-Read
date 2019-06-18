@@ -12,4 +12,5 @@ There is a timeout on script execution with Google Scripts. I added a loop that 
 
    * [This support article](https://support.google.com/mail/answer/7190?hl=en) describes the operators available for Gmail search strings.
 5. Save the script and grant it permission to execute. (Note that you will get a warning about the developer being unrecognized. Because we are creating our own code that interacts with our account, it's safe.)
-6. Run the script and review the Log content to monitor its progress.
+6. Select the repeater function from the drop down and run the script.
+7. Review the Log content to monitor its progress.
